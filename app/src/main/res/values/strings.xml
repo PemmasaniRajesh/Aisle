@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aisle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_upgrade">Upgrade</string>
+    <string name="premium_members_lbl">Premium members can view all their likes at once</string>
+</resources>
